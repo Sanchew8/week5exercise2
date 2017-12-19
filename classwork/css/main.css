@@ -1,0 +1,7 @@
+img {
+	height: 250px;
+	object-fit: cover;
+}
+.navbar {
+	background-color: tomato;
+}
